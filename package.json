@@ -5,6 +5,7 @@
   "main": "billing-api.js",
   "scripts": {
     "test": "jest",
+    "test:watch": "npm run test -- --watch",
     "start": "node billing-api.js"
   },
   "author": "Gouri Sabale",
