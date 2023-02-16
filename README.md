@@ -5,12 +5,12 @@ This API is developed to support 2 HTTP requests:
 1)POST Request: to create medical bill (/create)
 2)GET Request: to retrieve medical bill (/get)
 
-##Medical-Billing-Upload-System
+## Medical-Billing-Upload-System
 
 Perform following steps to build and execute this project:
 
 1)Install Node.js using following command:
-npm install -g npm
+### npm install -g npm
 
 2)To verify version of node and npm , use following command:
 node -v
