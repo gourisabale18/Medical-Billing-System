@@ -1,4 +1,4 @@
-# Medical-Billing-System
+## Medical-Billing-System
 
 Medical Billing Upload service is a REST API designed to create medical bills and retrieve all created bills.
 This API is developed to support 2 HTTP requests:
